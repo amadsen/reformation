@@ -87,9 +87,12 @@ Configuration passed via command line or constructor will override configuration
 
 #### Command line only
 
-+ port - the port you would like the server to listen on. Defaults to `8080`.
-+ ipaddress - the ipaddress you would like the server to listen on. Defaults to `0.0.0.0`.
-+ hostnames - the set of hostname regular expression patterns the server will accept requests for, checked in order. The default list is `[/^.*$/]`, which means any hostname.
++ **port** - the port you would like the server to listen on. Defaults to `8080`.
++ **ipaddress** - the ip address you would like the server to listen on. Defaults to `0.0.0.0`.
++ **hostnames** - the set of hostname regular expression patterns the server will accept requests for, checked in order. The default list is `[/^.*$/]`, which means any hostname.
++ **help** - display CLI usage information
++ **version** - display Reformation version information
++ **log** - set log level through CLI
 
 ## Possible Request Options
 

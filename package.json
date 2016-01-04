@@ -24,6 +24,7 @@
     "dustjs-helpers": "^1.7.2",
     "dustjs-linkedin": "^2.7.2",
     "nopt": "^3.0.2",
+    "nopt-usage": "^0.1.0",
     "rc": "^1.0.3",
     "request": "^2.58.0",
     "trumpet": "^1.7.1"
