@@ -1,3 +1,5 @@
+#### Reformation is a work in progress! Documentation is subject to change as the implementation progresses.
+
 # Reformation
 Reformation is a node module that allows you to specify a set of services to call, values to retrieve from the responses, and transformations to apply before returning the result according to a template you provide. It can be used either directly as a node module or as a data aggregation http server.
 
