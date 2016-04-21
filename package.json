@@ -23,6 +23,8 @@
     "deep-extend": "^0.4.0",
     "dustjs-helpers": "^1.7.2",
     "dustjs-linkedin": "^2.7.2",
+    "express": "^4.13.3",
+    "glob": "^6.0.3",
     "nopt": "^3.0.2",
     "nopt-usage": "^0.1.0",
     "rc": "^1.0.3",

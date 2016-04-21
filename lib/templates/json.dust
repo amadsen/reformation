@@ -1,0 +1,3 @@
+{! Render a key for each service and the JSON.stringified()
+   response for that service !}
+{.|js|s}
